@@ -16,23 +16,16 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `Expected Spring 2027`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__,Rexburg, ID
+
+Major: Data Science
 
 - 4.0 Major GPA
-
-
-## Related Experience
-
-### 
 
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+__Solar Technician__, MSI, Bakersfield, CA
 
 
 
